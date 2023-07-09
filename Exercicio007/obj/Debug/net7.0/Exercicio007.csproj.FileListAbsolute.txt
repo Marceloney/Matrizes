@@ -1,0 +1,15 @@
+C:\visualStudio\Exercicio007\Exercicio007\bin\Debug\net7.0\Exercicio007.exe
+C:\visualStudio\Exercicio007\Exercicio007\bin\Debug\net7.0\Exercicio007.deps.json
+C:\visualStudio\Exercicio007\Exercicio007\bin\Debug\net7.0\Exercicio007.runtimeconfig.json
+C:\visualStudio\Exercicio007\Exercicio007\bin\Debug\net7.0\Exercicio007.dll
+C:\visualStudio\Exercicio007\Exercicio007\bin\Debug\net7.0\Exercicio007.pdb
+C:\visualStudio\Exercicio007\Exercicio007\obj\Debug\net7.0\Exercicio007.csproj.AssemblyReference.cache
+C:\visualStudio\Exercicio007\Exercicio007\obj\Debug\net7.0\Exercicio007.GeneratedMSBuildEditorConfig.editorconfig
+C:\visualStudio\Exercicio007\Exercicio007\obj\Debug\net7.0\Exercicio007.AssemblyInfoInputs.cache
+C:\visualStudio\Exercicio007\Exercicio007\obj\Debug\net7.0\Exercicio007.AssemblyInfo.cs
+C:\visualStudio\Exercicio007\Exercicio007\obj\Debug\net7.0\Exercicio007.csproj.CoreCompileInputs.cache
+C:\visualStudio\Exercicio007\Exercicio007\obj\Debug\net7.0\Exercicio007.dll
+C:\visualStudio\Exercicio007\Exercicio007\obj\Debug\net7.0\refint\Exercicio007.dll
+C:\visualStudio\Exercicio007\Exercicio007\obj\Debug\net7.0\Exercicio007.pdb
+C:\visualStudio\Exercicio007\Exercicio007\obj\Debug\net7.0\Exercicio007.genruntimeconfig.cache
+C:\visualStudio\Exercicio007\Exercicio007\obj\Debug\net7.0\ref\Exercicio007.dll
